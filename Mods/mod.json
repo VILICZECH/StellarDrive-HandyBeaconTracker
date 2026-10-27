@@ -3,6 +3,13 @@
   "name": "Handy Beacon Tracker",
   "version": "1.0.0",
   "author": "VILIK",
+  "ai": "ai-assisted",
+  "development": "inactive",
+  "tags": [
+    "navigation",
+    "tools",
+    "beacons"
+  ],
   "description": "Need to find a beacon? Track it from your hand.\n\nA handheld Targeting Computer: the same marker, distance and edge arrow, plus a compass that turns as you look.\n\n• Right-click opens the list of beacons and planets, sorted by distance\n• The planet you are standing on stays off the list until you leave it\n• Pick a target and the game's own marker, name, distance and edge arrow follow it while the tracker is in your hand\n• Left-click jumps to the next target\n• The screen is a compass: north near a planet, the planet itself farther out, and the nearest asteroid when you are next to one\n• Craft it at a ship's Targeting Computer for 10 iron and 4 copper, once that part is researched. Free in a creative world\n\nEvery player needs the mod.",
   "thumbnail": "thumbnail.jpg"
 }
